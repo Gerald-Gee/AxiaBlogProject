@@ -1,4 +1,3 @@
-// utils/sendEmail.js
 import nodemailer from "nodemailer";
 import crypto from "crypto";
 
